@@ -15,24 +15,6 @@
 
 ---
 
-## 📂 Repository Structure
-
-```
-OSS-Capstone-Python/
-│
-├── README.md                          # You are here
-├── scripts/
-│   ├── script1_system_identity.sh     # Script 1: System Identity Report
-│   ├── script2_foss_inspector.sh      # Script 2: FOSS Package Inspector
-│   ├── script3_disk_permission.sh     # Script 3: Disk and Permission Auditor
-│   ├── script4_log_analyzer.sh        # Script 4: Log File Analyzer
-│   └── script5_manifesto_generator.sh # Script 5: Open Source Manifesto Generator
-└── report/
-    └── ishika_OSSCapstoneProject.docx # Full project report
-```
-
----
-
 ## 🖥️ System Requirements & Dependencies
 
 | Requirement | Details |
